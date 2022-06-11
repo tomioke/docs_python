@@ -1,4 +1,5 @@
-https://github.com/pyenv-win/pyenv-win#installation
+
+Referensi: https://github.com/pyenv-win/pyenv-win#installation
 
 Buka powershell dengan administrator
 
@@ -54,11 +55,14 @@ $ python -m pip install virtualenv
 
 $ python -m venv env
 
-Untuk mengaktifkan env dengan :
+Untuk mengaktifkan env dengan (ini otomatis jika pakai cmd):
 
 $ .\env\Scripts\activate
+
+atau
+
+$ . env/Scripts/activate
 
 Menonaktifkan :
 
 $ deactivate
-
