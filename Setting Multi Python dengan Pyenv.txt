@@ -27,7 +27,11 @@ o set a python version as the global version example: pyenv global 3.5.2
 
 Cek versi python terinstall :
 
-$ pyenv versions
+$ pyenv versions 
+
+Cek berdasarkan nomor versi python
+
+$ pyenv install --list | grep " 3\.[678]"
 
 Install python :
 
