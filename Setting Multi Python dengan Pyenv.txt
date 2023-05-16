@@ -33,6 +33,9 @@ Cek berdasarkan nomor versi python
 
 $ pyenv install --list | grep " 3\.[678]"
 
+Untuk versi windows:
+$ pyenv install --list | findstr " 3\.[678]"
+
 Install python :
 
 $ pyenv install 2.7.10 3.6.0 3.7.5
