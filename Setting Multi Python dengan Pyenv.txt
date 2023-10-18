@@ -64,11 +64,7 @@ $ python -m virtualenv venv
 
 Untuk mengaktifkan env dengan (ini otomatis jika pakai cmd):
 
-$ .\env\Scripts\activate
-
-atau
-
-$ . env/Scripts/activate
+$ venv\Scripts\activate
 
 Menonaktifkan :
 
