@@ -60,7 +60,7 @@ Jalankan di local folder untuk install virtual env:
 
 $ python -m pip install virtualenv
 
-$ python -m venv env
+$ python -m virtualenv venv
 
 Untuk mengaktifkan env dengan (ini otomatis jika pakai cmd):
 
